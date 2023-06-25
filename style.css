@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+body{
+    background: #FFFFE0;
+}
+.navbar{
+    display: flex;
+    background-color: #D3D3D3;
+}
+.navbar a{
+    font-size: 4vh;
+    justify-content: space-between;
+    margin-left: 7rem;
+    color: black;
+}
+.menu img{
+ margin-top: 5%;
+
+width: 100%;
+ 
+ box-shadow: 10px 5px 10px solid black;
+}
+.texto h2{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 5vh;
+}
+.texto img{
+    width: 25rem;
+    height: 15rem;
+    margin-left: 35%;
+    margin-top: 1%;
+
+}
+.tipos-pele h4{
+ font-size: 4vh;
+ margin-top: 5%;
+ margin-left: 3%;
+}
+.tipos-pele p{
+    font-size: 3vh;
+    margin-left: 3%;
+}
+.tipos-pele{
+    background-color: #FFE4E1;
+    margin-top:4%;
+    margin-left: 10%;
+        width: 80%;
+        height: 135vh;
+        display: flex;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
+    }
+
+.texto p{
+    margin-left: 20%;
+    font-size: 3vh;
+    margin-top: 3%;
+}
+.tipos-pele h1{
+    font-size: 5vh;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.passos h1{
+    margin-top: 5%;
+    font-size: 6vh;
+    margin-left: 5%;
+}
+.passos p{
+    font-size: 3vh;
+    margin-left: 8%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+.passos ul,li{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.passos li{
+    font-size: 4vh;
+    margin-left: 5%;
+}
+.blood h1{
+    font-size: 6vh;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 8%;
+
+}
+.blood img{
+    width: 31rem;
+    height: 20rem;
+    margin-top: 5%;
+    margin-left: 34%;
+}
+.blood ul{
+    font-size: 4vh;
+    margin-right: 20%;
+    margin-left: 5%;
+}
+.blood p{
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 20%;
+    font-size: 3vh;
+
+}
+.dicas{
+    background-color: #FFE4E1;
+    margin-top:4%;
+    margin-left: 10%;
+        width: 80%;
+        height: 180vh;
+
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
+}
+
+
+
+.blood button{
+    font-size: 3vh;
+    margin-top: 5%;
+border-radius: 10%;
+    width: 200px;
+    height: 50%;
+ justify-content: space-between;
+ margin-left: 5%;
+ margin-bottom: 2%;
+ background-color: #FFE4E1;
+}
+.emotes button{
+    border: none;
+    margin-top: 10%;
+   width: 50px;
+   border-radius: 50%;
+   background: none;
+   
+}
+.emotes img{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    
+}
+.emotes{
+    margin-left: 20%;
+}
+.emotes h1{
+    margin-left: -10%;
+    margin-bottom: -5%;
+}
